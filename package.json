@@ -1,0 +1,14 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "first hellow world angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello hi"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "=3.4 <3.6"
+  }
+}
